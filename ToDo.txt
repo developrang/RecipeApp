@@ -1,0 +1,4 @@
+Mobile burger menu
+Don't logout on refresh
+redirect to login page on recipe item click if not logged in
+protecting lazy loaded Routes with CanLoad interface
